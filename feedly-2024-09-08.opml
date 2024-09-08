@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ravi subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Jobs " title="Jobs "/>
+        <outline text="Finance" title="Finance">
+            <outline type="rss" text="SG Budget Babe" title="SG Budget Babe" xmlUrl="https://sgbudgetbabe.com/feed/" htmlUrl="https://sgbudgetbabe.com/"/>
+            <outline type="rss" text="SGMoneyMatters" title="SGMoneyMatters" xmlUrl="http://sgmoneymatters.com/news/feed/" htmlUrl="https://www.sgmoneymatters.com/"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="CNA Singapore News" title="CNA Singapore News" xmlUrl="http://www.channelnewsasia.com/rss/latest_cna_sg_rss.xml" htmlUrl="https://www.channelnewsasia.com/"/>
+            <outline type="rss" text="TheSmartLocal – Singapore's Leading Travel and Lifestyle Portal" title="TheSmartLocal – Singapore's Leading Travel and Lifestyle Portal" xmlUrl="https://thesmartlocal.com/feed/" htmlUrl="https://thesmartlocal.com/"/>
+            <outline type="rss" text="Mothership.SG - News from Singapore, Asia and around the world" title="Mothership.SG - News from Singapore, Asia and around the world" xmlUrl="http://mothership.sg/feed/" htmlUrl="https://mothership.sg"/>
+        </outline>
+        <outline text="Tips + Tricks" title="Tips + Tricks">
+            <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="http://feeds.feedburner.com/Makeuseof" htmlUrl="https://www.makeuseof.com"/>
+            <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="http://feeds.feedburner.com/HowToGeek" htmlUrl="https://www.howtogeek.com"/>
+        </outline>
+        <outline text="Gadgets" title="Gadgets">
+            <outline type="rss" text="Sammy Fans" title="Sammy Fans" xmlUrl="https://www.sammyfans.com/feed/" htmlUrl="https://www.sammyfans.com/"/>
+            <outline type="rss" text="HWZ Content" title="HWZ Content" xmlUrl="http://feeds.feedburner.com/hardwarezone/all" htmlUrl="https://www.hardwarezone.com.sg/home"/>
+            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
+            <outline type="rss" text="Tech – Ars Technica" title="Tech – Ars Technica" xmlUrl="https://arstechnica.com/gadgets/feed/?t=ddc43dac8380c2ab034e2eedc26ee51c" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="XDA" title="XDA" xmlUrl="http://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com"/>
+        </outline>
+        <outline text="AWS" title="AWS">
+            <outline type="rss" text="Towards AWS - Medium" title="Towards AWS - Medium" xmlUrl="https://towardsaws.com/feed" htmlUrl="https://towardsaws.com?source=rss----5da0267791b1---4"/>
+            <outline type="rss" text="AWS Developer Tools Blog" title="AWS Developer Tools Blog" xmlUrl="https://aws.amazon.com/blogs/developer/feed/" htmlUrl="https://aws.amazon.com/blogs/developer/"/>
+            <outline type="rss" text="AWS Database Blog" title="AWS Database Blog" xmlUrl="https://aws.amazon.com/blogs/database/feed/" htmlUrl="https://aws.amazon.com/blogs/database/"/>
+            <outline type="rss" text="AWS News Blog" title="AWS News Blog" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+            <outline type="rss" text="DEV Community: AWS" title="DEV Community: AWS" xmlUrl="https://dev.to/feed/aws" htmlUrl="https://dev.to/aws"/>
+            <outline type="rss" text="Recent Announcements" title="Recent Announcements" xmlUrl="http://aws.amazon.com/rss/whats-new.rss" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/"/>
+            <outline type="rss" text="AWS Architecture Blog" title="AWS Architecture Blog" xmlUrl="http://www.awsarchitectureblog.com/atom.xml" htmlUrl="https://aws.amazon.com/blogs/architecture/"/>
+            <outline type="rss" text="AWS DevOps &amp; Developer Productivity Blog" title="AWS DevOps &amp; Developer Productivity Blog" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="https://aws.amazon.com/blogs/devops/"/>
+            <outline type="rss" text="Containers" title="Containers" xmlUrl="https://aws.amazon.com/blogs/containers/feed/" htmlUrl="https://aws.amazon.com/blogs/containers/"/>
+        </outline>
+        <outline text="Self Development" title="Self Development">
+            <outline type="rss" text="The Marginalian" title="The Marginalian" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org"/>
+        </outline>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Latest Hacking News | Cyber Security News, Hacking Tools and Penetration Testing Courses" title="Latest Hacking News | Cyber Security News, Hacking Tools and Penetration Testing Courses" xmlUrl="http://www.latesthackingnews.com/feed/" htmlUrl="https://latesthackingnews.com/"/>
+            <outline type="rss" text="AWS Cloud Security Weekly" title="AWS Cloud Security Weekly" xmlUrl="https://aws-cloudsec.com/feed" htmlUrl="https://aws-cloudsec.com"/>
+            <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="http://feeds2.feedburner.com/HelpNetSecurity" htmlUrl="https://www.helpnetsecurity.com/"/>
+        </outline>
+        <outline text="Deals" title="Deals">
+            <outline type="rss" text="SINGPromos.com" title="SINGPromos.com" xmlUrl="http://singapore-promotions.com/feed/" htmlUrl="http://singpromos.com"/>
+        </outline>
+        <outline text="Web Tech" title="Web Tech">
+            <outline type="rss" text="CodeForGeek" title="CodeForGeek" xmlUrl="http://codeforgeek.com/feed/" htmlUrl="https://codeforgeek.com"/>
+        </outline>
+        <outline text="Technology" title="Technology">
+            <outline type="rss" text="Blog – Cloud Native Computing Foundation" title="Blog – Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/blog/feed/" htmlUrl="https://www.cncf.io"/>
+            <outline type="rss" text="Kubernetes Blog" title="Kubernetes Blog" xmlUrl="http://kubernetesio.blogspot.com/feeds/posts/default" htmlUrl="https://kubernetes.io/"/>
+            <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
+            <outline type="rss" text="Biz &amp; IT – Ars Technica" title="Biz &amp; IT – Ars Technica" xmlUrl="https://arstechnica.com/information-technology/feed/?t=ddc43dac8380c2ab034e2eedc26ee51c" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="The Register - Software: Devops" title="The Register - Software: Devops" xmlUrl="http://www.theregister.co.uk/devops/headlines.atom" htmlUrl="https://www.theregister.com/software/devops/"/>
+            <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed/" htmlUrl="https://www.kdnuggets.com"/>
+            <outline type="rss" text="DZone Cloud Architecture Zone" title="DZone Cloud Architecture Zone" xmlUrl="http://feeds.dzone.com/cloud" htmlUrl="https://dzone.com/cloud-architecture"/>
+            <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://medium.freecodecamp.com/feed" htmlUrl="https://www.freecodecamp.org/news/"/>
+            <outline type="rss" text="The New Stack" title="The New Stack" xmlUrl="http://thenewstack.io/feed/" htmlUrl="https://thenewstack.io/"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
+            <outline type="rss" text="DevDocs" title="DevDocs" xmlUrl="http://devdocs.io/feed" htmlUrl="https://devdocs.io/"/>
+            <outline type="rss" text="Web Code Geeks" title="Web Code Geeks" xmlUrl="http://www.webcodegeeks.com/feed/" htmlUrl="https://www.webcodegeeks.com/"/>
+            <outline type="rss" text="DZone Agile Zone" title="DZone Agile Zone" xmlUrl="http://feeds.dzone.com/zones/agile" htmlUrl="https://dzone.com/agile"/>
+            <outline type="rss" text="ComputerWeekly.com" title="ComputerWeekly.com" xmlUrl="http://www.computerweekly.com/rss/All-Computer-Weekly-content.xml" htmlUrl="https://www.computerweekly.com"/>
+            <outline type="rss" text="Codementor Blog" title="Codementor Blog" xmlUrl="https://www.codementor.io/blog/feed" htmlUrl="https://www.codementor.io/blog"/>
+            <outline type="rss" text="DevOps.com" title="DevOps.com" xmlUrl="http://devops.com/feed/" htmlUrl="https://devops.com/"/>
+            <outline type="rss" text="Kubernetes Overview, News and Trends | The New Stack" title="Kubernetes Overview, News and Trends | The New Stack" xmlUrl="https://thenewstack.io/category/kubernetes/feed/" htmlUrl="https://thenewstack.io/kubernetes/"/>
+        </outline>
+    </body>
+</opml>
